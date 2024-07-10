@@ -1,6 +1,11 @@
+# Contact Management System
+
+## A command line based program for creating, managing, and exporting contacts 
+
 Instructions for Contact Management System:
 
 Setup - From the comand line, run the program "Mod 3 Project Contact Management System.py".
+
 Menu - This will take you to a main menu with several different numbered options.  You wll need to select a function from 1-7.
 functions 1 - is meant to add a contact.  You will need to provide a Name, Phone Number, and Email address.
 function 2 - is meant to edit an already existing contact.  You will be prompted to give the contact ID which will match the original phone number given.
