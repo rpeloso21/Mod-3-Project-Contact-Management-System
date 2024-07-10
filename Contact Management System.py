@@ -111,15 +111,6 @@ def export_contacts():
 
 contacts = {}
 
-# Remember to Delete!
-contacts["1111111111"] = {
-"Name": "Bobby Peloso", 
-"Phone Number": "1111111111",
-"Email": "rpeloso21@gmail.com"
-}
-
-
-
 print("\nWelcome to the Contact Management System!")
 
 while True:
